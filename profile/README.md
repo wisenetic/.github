@@ -1,4 +1,4 @@
-<img src="https://github.com/wisenetic/wisenetic/blob/master/Banner.jpg" alt="Wisenetic">
+<img src="https://github.com/wisenetic/.github/blob/master/profile/Banner.jpg" alt="Wisenetic">
 
 <p>
   <a href="https://twitter.com/wiseneticT" target="_blank">
